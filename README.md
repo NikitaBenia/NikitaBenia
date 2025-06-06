@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there 👋 I am a Backend Developer
 
+## Telegram 
+[my_telegram](https://t.me/gribofficial)
 <!--
 **NikitaBenia/NikitaBenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
