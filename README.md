@@ -2,6 +2,11 @@
 
 ## Telegram 
 [my_telegram](https://t.me/gribofficial)
+
+## Technology stack
+
+**Back-end**
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 <!--
 **NikitaBenia/NikitaBenia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
